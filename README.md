@@ -1,5 +1,10 @@
 # MetallibSupportPkg
 
+> [!NOTE]
+> This repository has been forked for my purposes.
+
+---
+
 A collection of utilities related to patching Metal Libraries (`.metallib`) in macOS, specifically with the goal of restoring support for legacy hardware (namely Metal 3802-based GPUs on macOS Sequoia).
 
 ## Logic
